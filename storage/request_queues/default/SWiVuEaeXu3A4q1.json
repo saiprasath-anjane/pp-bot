@@ -1,0 +1,9 @@
+{
+	"id": "SWiVuEaeXu3A4q1",
+	"json": "{\"id\":\"SWiVuEaeXu3A4q1\",\"url\":\"https://docs.perkspe.com/docs/Perkspe%20web/Employees/Adding%20of%20Employees\",\"loadedUrl\":\"https://docs.perkspe.com/docs/Perkspe%20web/Employees/Adding%20of%20Employees/\",\"uniqueKey\":\"https://docs.perkspe.com/docs/Perkspe%20web/Employees/Adding%20of%20Employees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-20T08:36:20.989Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com/docs/Perkspe%20web/Employees/Adding%20of%20Employees",
+	"url": "https://docs.perkspe.com/docs/Perkspe%20web/Employees/Adding%20of%20Employees"
+}

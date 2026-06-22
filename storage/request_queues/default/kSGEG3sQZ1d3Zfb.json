@@ -1,0 +1,9 @@
+{
+	"id": "kSGEG3sQZ1d3Zfb",
+	"json": "{\"id\":\"kSGEG3sQZ1d3Zfb\",\"url\":\"https://docs.perkspe.com\",\"loadedUrl\":\"https://docs.perkspe.com/\",\"uniqueKey\":\"https://docs.perkspe.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-06-20T08:36:13.355Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com",
+	"url": "https://docs.perkspe.com"
+}

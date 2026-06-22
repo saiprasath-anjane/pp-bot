@@ -1,0 +1,9 @@
+{
+	"id": "ZuK57KAwxioVLrD",
+	"json": "{\"id\":\"ZuK57KAwxioVLrD\",\"url\":\"https://docs.perkspe.com/docs/Perkspe%20mobile/Getting%20started/\",\"loadedUrl\":\"https://docs.perkspe.com/docs/Perkspe%20mobile/Getting%20started/\",\"uniqueKey\":\"https://docs.perkspe.com/docs/Perkspe%20mobile/Getting%20started\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-20T08:36:22.434Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com/docs/Perkspe%20mobile/Getting%20started",
+	"url": "https://docs.perkspe.com/docs/Perkspe%20mobile/Getting%20started/"
+}

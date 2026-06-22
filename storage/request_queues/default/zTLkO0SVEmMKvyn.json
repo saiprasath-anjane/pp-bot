@@ -1,0 +1,9 @@
+{
+	"id": "zTLkO0SVEmMKvyn",
+	"json": "{\"id\":\"zTLkO0SVEmMKvyn\",\"url\":\"https://docs.perkspe.com/docs/Introduction/\",\"loadedUrl\":\"https://docs.perkspe.com/docs/Introduction/\",\"uniqueKey\":\"https://docs.perkspe.com/docs/Introduction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-20T08:36:15.920Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com/docs/Introduction",
+	"url": "https://docs.perkspe.com/docs/Introduction/"
+}

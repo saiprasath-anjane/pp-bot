@@ -1,0 +1,9 @@
+{
+	"id": "Qe0mTePE6uDwf4m",
+	"json": "{\"id\":\"Qe0mTePE6uDwf4m\",\"url\":\"https://docs.perkspe.com/docs/Perkspe%20web/Overview\",\"loadedUrl\":\"https://docs.perkspe.com/docs/Perkspe%20web/Overview/\",\"uniqueKey\":\"https://docs.perkspe.com/docs/Perkspe%20web/Overview\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-20T08:36:15.883Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com/docs/Perkspe%20web/Overview",
+	"url": "https://docs.perkspe.com/docs/Perkspe%20web/Overview"
+}

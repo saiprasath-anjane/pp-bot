@@ -1,0 +1,9 @@
+{
+	"id": "8GiHu0h5wO0C4hC",
+	"json": "{\"id\":\"8GiHu0h5wO0C4hC\",\"url\":\"https://docs.perkspe.com/docs/Introduction/PEP%20coins\",\"loadedUrl\":\"https://docs.perkspe.com/docs/Introduction/PEP%20coins/\",\"uniqueKey\":\"https://docs.perkspe.com/docs/Introduction/PEP%20coins\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-20T08:36:20.939Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com/docs/Introduction/PEP%20coins",
+	"url": "https://docs.perkspe.com/docs/Introduction/PEP%20coins"
+}

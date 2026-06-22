@@ -1,0 +1,9 @@
+{
+	"id": "ln4laILD44zMmyF",
+	"json": "{\"id\":\"ln4laILD44zMmyF\",\"url\":\"https://docs.perkspe.com/docs/Perkspe%20web/Get%20Started/Create%20account\",\"loadedUrl\":\"https://docs.perkspe.com/docs/Perkspe%20web/Get%20Started/Create%20account/\",\"uniqueKey\":\"https://docs.perkspe.com/docs/Perkspe%20web/Get%20Started/Create%20account\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-20T08:36:18.364Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com/docs/Perkspe%20web/Get%20Started/Create%20account",
+	"url": "https://docs.perkspe.com/docs/Perkspe%20web/Get%20Started/Create%20account"
+}

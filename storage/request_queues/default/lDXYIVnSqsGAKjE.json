@@ -1,0 +1,9 @@
+{
+	"id": "lDXYIVnSqsGAKjE",
+	"json": "{\"id\":\"lDXYIVnSqsGAKjE\",\"url\":\"https://docs.perkspe.com/docs/Perkspe%20web/Onboarding%20Process/\",\"loadedUrl\":\"https://docs.perkspe.com/docs/Perkspe%20web/Onboarding%20Process/\",\"uniqueKey\":\"https://docs.perkspe.com/docs/Perkspe%20web/Onboarding%20Process\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"state\":4}},\"handledAt\":\"2026-06-20T08:36:17.879Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://docs.perkspe.com/docs/Perkspe%20web/Onboarding%20Process",
+	"url": "https://docs.perkspe.com/docs/Perkspe%20web/Onboarding%20Process/"
+}

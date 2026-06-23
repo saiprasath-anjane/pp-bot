@@ -1,12 +1,9 @@
 (function () {
-  // Auto-detect the doc-bot domain from this script's own src URL
   const currentScript = document.currentScript;
   const scriptUrl = new URL(currentScript.src);
   const DOC_BOT_URL = scriptUrl.origin;
 
-  // Floating button
   const button = document.createElement('button');
-  button.innerHTML = '💬';
   button.style.cssText = `
     position: fixed;
     bottom: 20px;
@@ -14,16 +11,24 @@
     width: 56px;
     height: 56px;
     border-radius: 50%;
-    background: #111;
+    background: #1E4597;
     color: white;
     border: none;
-    font-size: 24px;
     cursor: pointer;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     z-index: 999999;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   `;
 
-  // Chat iframe container (hidden by default)
+  const img = document.createElement('img');
+  img.src = `${DOC_BOT_URL}/pp-logo.png`;
+  img.style.cssText = `width: 32px; height: 32px; object-fit: contain;`;
+  button.appendChild(img);
+
   const container = document.createElement('div');
   container.style.cssText = `
     position: fixed;
@@ -40,18 +45,15 @@
 
   const iframe = document.createElement('iframe');
   iframe.src = `${DOC_BOT_URL}/chat`;
-  iframe.style.cssText = `
-    width: 100%;
-    height: 100%;
-    border: none;
-  `;
+  iframe.style.cssText = `width: 100%; height: 100%; border: none;`;
   container.appendChild(iframe);
 
   let open = false;
   button.addEventListener('click', () => {
     open = !open;
     container.style.display = open ? 'block' : 'none';
-    button.innerHTML = open ? '✕' : '💬';
+    button.innerHTML = open ? '<span style="font-size:20px">✕</span>' : '';
+    if (!open) button.appendChild(img);
   });
 
   document.body.appendChild(button);
